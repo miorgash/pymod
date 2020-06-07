@@ -12,7 +12,7 @@ with open('LICENSE') as f:
 setup(
     name='pymod',
     version='0.1.0',
-    description='Python sample module'
+    description='Python sample module',
     long_description=readme,
     author='Miori Igarashi',
     author_email='miorgash@gmail.com',
