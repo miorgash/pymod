@@ -1,4 +1,4 @@
-Texploratory
+pymod
 ========================
 
 Python sample module
